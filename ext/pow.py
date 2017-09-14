@@ -1,3 +1,9 @@
+#This is used to display code for Tubi TV referral.
+#This code is used to implement my thesis work. It implement my new protocol
+#deployed a one-way proof-of-work algorithm. This is the core part of the design
+#and it shows the logical of how controllers works in my system. It shows my
+#coding ability and my knowledge of networks.
+
 # Copyright 2011-2012 James McCauley
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
